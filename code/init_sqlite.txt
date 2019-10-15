@@ -1,0 +1,10 @@
+.open "../data/database.db"
+.mode csv
+
+DROP TABLE IF EXISTS power_table;
+.import "../data/global_power_plant_database.csv" power_table
+.schema power_table
+
+DROP TABLE IF EXISTS GDP_table;
+.import "../data/GDP.csv" GDP_table
+.schema GDP_table
