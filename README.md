@@ -9,7 +9,7 @@ My focus is to evaluate how green (in terms of power plants only) the [top 10 ec
 - Jupyter Notebooks for designing the project.
 - Visualisation using the Matplotlib library.
 
-The easiest way of viewing this project is via the [.html output file](https://github.com/tgregory98/GPPD-analysis/tree/master/code/output.html).
+The easiest way of viewing this project is via the [.md notebook file](https://github.com/tgregory98/GPPD-analysis/tree/master/code/notebook/notebook.md).
 
 ## Project outline
 The train of thought behind this project.
@@ -41,11 +41,11 @@ An arbitrary metric is calculated to represent how green each of these 10 countr
 ```
 C:/sqlite/sqlite3.exe data/database.db
 ```
-Now the SQLite command line can be used for testing purposes. Useful commands might be `.tables` or `.schema`.
+Now the SQLite command line can be used for testing purposes. Useful commands might be `.tables` or `.schema`. Now you can also open the [IPython Notebook](https://github.com/tgregory98/GPPD-analysis/blob/master/code/notebook.ipynb) in Jupyter and run the queries for yourself.
 
 ## Licences and citations
 
-All the data used in this project follows a [Creative Commons-Attribution 4.0 (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/), just as the original sources do. All credit for the original power plant data goes to the [World Resources Institute](https://www.wri.org/) as part of the [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase). All credit for the origin GDP data goes to the [The World Bank Group](https://data.worldbank.org) as part of the [GDP (current US$) database](https://data.worldbank.org/indicator/ny.gdp.mktp.cd) The original data has been modified in the form of the addition of new attributes. No raw data files have been included in this repo. Here you will only see the results of queries that have been run. The citation for the databases follow below:
+All the data used in this project follows a [Creative Commons-Attribution 4.0 (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/), just as the original sources do. All credit for the original power plant data goes to the [World Resources Institute](https://www.wri.org/) as part of the [Global Power Plant Database](http://datasets.wri.org/dataset/globalpowerplantdatabase). All credit for the origin GDP data goes to the [The World Bank Group](https://data.worldbank.org) as part of the [GDP (current US$) database](https://data.worldbank.org/indicator/ny.gdp.mktp.cd) The original data has been modified in the form of the addition of new attributes. No raw data files have been included in this repo. Here you will only see the results of queries that have been run. The citations for the databases follow below:
 
 > Global Energy Observatory, Google, KTH Royal Institute of Technology in Stockholm, Enipedia, World Resources Institute. 2019. Global Power Plant Database v1.2.0. Published on Resource Watch (http://resourcewatch.org/) and Google Earth Engine (https://earthengine.google.com/). Accessed through Resource Watch, 15/10/2019. www.resourcewatch.org.
 
