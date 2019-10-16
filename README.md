@@ -41,7 +41,7 @@ An arbitrary metric is calculated to represent how green each of these 10 countr
 ```
 C:/sqlite/sqlite3.exe data/database.db
 ```
-Now the SQLite command line can be used for testing purposes. Useful commands might be `.tables` or `.schema`. Now you can also open the [IPython Notebook](https://github.com/tgregory98/GPPD-analysis/blob/master/code/notebook.ipynb) in Jupyter and run the queries for yourself.
+The SQLite command line can be used for testing purposes (useful commands might be `.tables` or `.schema`). Now you can also open the [IPython Notebook](https://github.com/tgregory98/GPPD-analysis/blob/master/code/notebook.ipynb) in Jupyter and run the queries for yourself.
 
 ## Licences and citations
 
