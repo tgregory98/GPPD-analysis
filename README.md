@@ -1,7 +1,7 @@
 # **GPPD-analysis**
 **Some simple data analysis using SQL (SQLite), Jupyter Notebooks and Matplotlib. I used the Global Power Plant Database, an open database coordinated by the World Resources Institute and Google Earth Outreach, and the GDP (current US$) database from World Bank.**
 
-My focus is to evaluate how green (in terms of power plants only) the [top 10 economies of Europe](https://europe.businesschief.com/leadership/2285/Top-10-economies-in-Europe) are, and to then ask why this might be. I designed this project **only** for the programming skills, and not for the statistics involved. Topics included:
+My focus is to evaluate how green (in terms of power plants only) the [top 10 economies of Europe](https://europe.businesschief.com/leadership/2285/Top-10-economies-in-Europe) are, and to then ask why this might be. These are the only 10 countries considered in the Jupyter Notebook. I designed this project **only** for the programming skills, and not for the statistics involved. Topics included:
 
 - Basic SQL; CREATE TABLE, DROP TABLE, SELECT, WHERE, ORDER BY, AS.
 - Intermediate SQL; GROUP BY, INNER JOIN, CAST, CASE, aggregate functions, subqueries.
@@ -9,10 +9,10 @@ My focus is to evaluate how green (in terms of power plants only) the [top 10 ec
 - Jupyter Notebooks for designing the project.
 - Visualisation using the Matplotlib library.
 
-**The easiest way of viewing this project is via the [.md notebook file](https://github.com/tgregory98/GPPD-analysis/tree/master/code/notebook/notebook.md). If you want to try it out for yourself with Jupyter Notebooks, follow the "How-to (Windows)" section below.**
+**The easiest way of viewing this project is via the [markdown notebook file](https://github.com/tgregory98/GPPD-analysis/tree/master/code/notebook/notebook.md). If you want to try it out for yourself with Jupyter Notebooks, follow the "How-to (Windows)" section below.**
 
 ## Sample visualisation
-Here is a sample of one of the visualisations from this project, which you'll find more of in the notebook file mentioned above. You will also find full explanations and all relevant code there.
+Here is a sample of one of the visualisations from this project, which you'll find more of in the markdown notebook file mentioned above. You will also find full explanations and all relevant code there.
 ![image](https://github.com/tgregory98/GPPD-analysis/blob/master/code/notebook/output_5_0.png)
 
 ## Project outline
