@@ -9,10 +9,9 @@ My focus is to evaluate how green (in terms of power plants only) the [top 10 ec
 - Jupyter Notebooks for designing the project.
 - Visualisation using the Matplotlib library.
 
-**The easiest way of viewing this project is via the [markdown notebook file](https://github.com/tgregory98/GPPD-analysis/tree/master/code/notebook/notebook.md). If you want to try it out for yourself with Jupyter Notebooks, follow the "How-to (Windows)" section below.**
+**The easiest way of viewing this project is via the [markdown notebook file](https://github.com/tgregory98/GPPD-analysis/tree/master/code/notebook/notebook.md), where you will find all queries, visualisations and explanations. If you want to try it out for yourself with Jupyter Notebooks, follow the "How-to (Windows)" section below.**
 
-## Sample visualisation
-Here is a sample of one of the visualisations from this project, which you'll find more of in the markdown notebook file mentioned above. You will also find full explanations and all relevant code there.
+Here is a sample of one of the visualisations from this project, which you'll find more of in the markdown notebook file mentioned above.
 ![image](https://github.com/tgregory98/GPPD-analysis/blob/master/code/notebook/output_5_0.png)
 
 ## Project outline
