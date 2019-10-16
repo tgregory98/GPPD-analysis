@@ -1,5 +1,5 @@
 # **GPPD-analysis**
-**Some simple data analysis using SQL (SQLite), Jupyter Notebooks and Matplotlib. I used the Global Power Plant Database, an open database coordinated by the World Resources Institute and Google Earth Outreach, and GDP (current US$) database from World Bank.**
+**Some simple data analysis using SQL (SQLite), Jupyter Notebooks and Matplotlib. I used the Global Power Plant Database, an open database coordinated by the World Resources Institute and Google Earth Outreach, and the GDP (current US$) database from World Bank.**
 
 My focus is to evaluate how green (in terms of power plants only) the [top 10 economies of Europe](https://europe.businesschief.com/leadership/2285/Top-10-economies-in-Europe) are, and to then ask why this might be. I designed this project **only** for the programming skills, and not for the statistics involved. Topics included:
 
